@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "skin": {
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "toolshed:skin": {}
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.toolshed.apply_tool_skin.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "components": {
+        "toolshed:skin": "toolshed:frigid"
+      },
+      "id": "minecraft:netherite_pickaxe"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.toolshed.apply_tool_skin.title"
+    }
+  },
+  "parent": "minecraft:adventure/root",
+  "rewards": {
+    "experience": 4
+  },
+  "sends_telemetry_event": true
+}

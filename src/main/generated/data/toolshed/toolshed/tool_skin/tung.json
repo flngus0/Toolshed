@@ -1,0 +1,7 @@
+{
+  "id": "toolshed:tung",
+  "material": "minecraft:breeze_rod",
+  "tools": [
+    "minecraft:mace"
+  ]
+}

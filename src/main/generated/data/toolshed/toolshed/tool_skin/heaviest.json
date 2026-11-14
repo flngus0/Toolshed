@@ -1,0 +1,7 @@
+{
+  "id": "toolshed:heaviest",
+  "material": "minecraft:mace",
+  "tools": [
+    "minecraft:mace"
+  ]
+}

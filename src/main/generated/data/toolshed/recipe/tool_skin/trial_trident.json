@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:trial_key",
+  "base": "minecraft:trident",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:trial"
+    },
+    "id": "minecraft:trident"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

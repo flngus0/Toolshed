@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:mossy_stone_bricks",
+  "base": "minecraft:netherite_shovel",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:legend"
+    },
+    "id": "minecraft:netherite_shovel"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

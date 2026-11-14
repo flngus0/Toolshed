@@ -1,0 +1,12 @@
+{
+  "skin.wonky.whack": {
+    "sounds": [
+      "toolshed:whack_1",
+      "toolshed:whack_2",
+      "toolshed:whack_3",
+      "toolshed:whack_4",
+      "toolshed:whack_5"
+    ],
+    "subtitle": "subtitles.skin.wonky.whack"
+  }
+}

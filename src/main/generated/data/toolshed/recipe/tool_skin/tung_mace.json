@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:breeze_rod",
+  "base": "minecraft:mace",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:tung"
+    },
+    "id": "minecraft:mace"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

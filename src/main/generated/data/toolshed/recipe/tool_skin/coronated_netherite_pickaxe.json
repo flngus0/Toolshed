@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_block",
+  "base": "minecraft:netherite_pickaxe",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:coronated"
+    },
+    "id": "minecraft:netherite_pickaxe"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

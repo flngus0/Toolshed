@@ -1,0 +1,7 @@
+{
+  "id": "toolshed:ominous",
+  "material": "minecraft:ominous_trial_key",
+  "tools": [
+    "minecraft:trident"
+  ]
+}

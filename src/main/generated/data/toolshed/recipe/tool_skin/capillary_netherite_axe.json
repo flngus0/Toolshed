@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": [
+    "minecraft:zombie_head",
+    "minecraft:player_head"
+  ],
+  "base": "minecraft:netherite_axe",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:capillary"
+    },
+    "id": "minecraft:netherite_axe"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

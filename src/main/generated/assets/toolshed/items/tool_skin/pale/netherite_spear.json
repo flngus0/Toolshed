@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "toolshed:item/tool_skin/pale/netherite_spear"
+        },
+        "when": [
+          "gui",
+          "ground",
+          "fixed",
+          "on_shelf",
+          "head"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "toolshed:item/tool_skin/pale/netherite_spear_handheld"
+    },
+    "property": "minecraft:display_context"
+  },
+  "swap_animation_scale": 1
+}

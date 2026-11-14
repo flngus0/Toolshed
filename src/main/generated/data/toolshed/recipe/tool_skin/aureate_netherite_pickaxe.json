@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:netherite_pickaxe",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:aureate"
+    },
+    "id": "minecraft:netherite_pickaxe"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:red_dye",
+  "base": "minecraft:mace",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:wonky"
+    },
+    "id": "minecraft:mace"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

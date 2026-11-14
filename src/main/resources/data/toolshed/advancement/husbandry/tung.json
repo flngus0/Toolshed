@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "tung": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:mace",
+            "count": 1,
+            "components": {
+              "toolshed:skin": "toolshed:tung"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.toolshed.tung.description"
+    },
+    "icon": {
+      "id": "minecraft:mace",
+      "components": {
+        "toolshed:skin": "toolshed:tung"
+      },
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.toolshed.tung.title"
+    }
+  },
+  "requirements": [
+    [
+      "tung"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

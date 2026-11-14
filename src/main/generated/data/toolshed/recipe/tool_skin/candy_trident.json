@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:sugar",
+  "base": "minecraft:trident",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:candy"
+    },
+    "id": "minecraft:trident"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

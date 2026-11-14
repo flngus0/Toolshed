@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:trident",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:voidsci"
+    },
+    "id": "minecraft:trident"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

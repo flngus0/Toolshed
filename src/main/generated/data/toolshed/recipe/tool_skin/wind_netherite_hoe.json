@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:breeze_rod",
+  "base": "minecraft:netherite_hoe",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:wind"
+    },
+    "id": "minecraft:netherite_hoe"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

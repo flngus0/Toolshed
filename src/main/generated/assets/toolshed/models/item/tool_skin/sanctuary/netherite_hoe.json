@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "toolshed:item/tool_skin/sanctuary/netherite_hoe"
+  }
+}

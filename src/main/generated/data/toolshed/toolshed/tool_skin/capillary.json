@@ -1,0 +1,21 @@
+{
+  "handheld": [
+    "minecraft:mace",
+    "minecraft:netherite_spear"
+  ],
+  "id": "toolshed:capillary",
+  "material": [
+    "minecraft:zombie_head",
+    "minecraft:player_head"
+  ],
+  "tools": [
+    "minecraft:mace",
+    "minecraft:trident",
+    "minecraft:netherite_sword",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_hoe",
+    "minecraft:netherite_spear"
+  ]
+}

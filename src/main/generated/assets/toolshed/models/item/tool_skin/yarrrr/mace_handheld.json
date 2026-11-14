@@ -1,0 +1,6 @@
+{
+  "parent": "toolshed:item/template_large_mace",
+  "textures": {
+    "layer0": "toolshed:item/tool_skin/yarrrr/mace_handheld"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "toolshed:error",
+  "material": "minecraft:cherry_wood",
+  "tools": [
+    "minecraft:netherite_sword",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_hoe"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "criteria": {
+    "tung_mace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/tung_mace"
+      }
+    },
+    "yarrrr_mace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/yarrrr_mace"
+      }
+    },
+    "yarrrr_hoe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/yarrrr_netherite_hoe"
+      }
+    },
+    "yarrrr_pickaxe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/yarrrr_netherite_pickaxe"
+      }
+    },
+    "yarrrr_shovel": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/yarrrr_netherite_shovel"
+      }
+    },
+    "yarrrr_spear": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/yarrrr_netherite_spear"
+      }
+    },
+    "capillary_mace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/capillary_mace"
+      }
+    },
+    "capillary_hoe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/capillary_netherite_hoe"
+      }
+    },
+    "capillary_pickaxe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/capillary_netherite_pickaxe"
+      }
+    },
+    "capillary_shovel": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/capillary_netherite_shovel"
+      }
+    },
+    "capillary_trident": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/capillary_trident"
+      }
+    },
+    "candy_mace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/candy_mace"
+      }
+    },
+    "candy_hoe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/candy_netherite_hoe"
+      }
+    },
+    "candy_pickaxe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/candy_netherite_pickaxe"
+      }
+    },
+    "candy_shovel": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/candy_netherite_shovel"
+      }
+    },
+    "coronated_mace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/coronated_mace"
+      }
+    },
+    "coronated_trident": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/coronated_trident"
+      }
+    },
+    "error_hoe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/error_netherite_hoe"
+      }
+    },
+    "error_pickaxe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/error_netherite_pickaxe"
+      }
+    },
+    "error_shovel": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/error_netherite_shovel"
+      }
+    },
+    "esoteric_mace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/esoteric_mace"
+      }
+    },
+    "esoteric_pickaxe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/esoteric_netherite_pickaxe"
+      }
+    },
+    "frigid_hoe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/frigid_netherite_hoe"
+      }
+    },
+    "frigid_pickaxe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/frigid_netherite_pickaxe"
+      }
+    },
+    "frigid_shovel": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/frigid_netherite_shovel"
+      }
+    },
+    "frigid_trident": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/frigid_trident"
+      }
+    },
+    "heaviest_mace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/heaviest_mace"
+      }
+    },
+    "ominous_trident": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/ominous_trident"
+      }
+    },
+    "rosette_mace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/rosette_mace"
+      }
+    },
+    "rosette_hoe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/rosette_netherite_hoe"
+      }
+    },
+    "rosette_pickaxe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/rosette_netherite_pickaxe"
+      }
+    },
+    "rosette_shovel": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/rosette_netherite_shovel"
+      }
+    },
+    "rosette_trident": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/rosette_trident"
+      }
+    },
+    "trial_trident": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/trial_trident"
+      }
+    },
+    "wonky_mace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "toolshed:tool_skin/wonky_mace"
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "id": "minecraft:netherite_pickaxe",
+      "components": {
+        "toolshed:skin": "toolshed:candy"
+      }
+    },
+    "title": {
+      "translate": "advancements.toolshed.apply_any_full_set.title"
+    },
+    "description": {
+      "translate": "advancements.toolshed.apply_any_full_set.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "toolshed:adventure/apply_tool_skin",
+  "requirements": [
+    [
+      "tung_mace",
+      "yarrrr_hoe",
+      "capillary_hoe",
+      "candy_hoe",
+      "coronated_trident",
+      "error_hoe",
+      "esoteric_pickaxe",
+      "frigid_hoe",
+      "heaviest_mace",
+      "ominous_trident",
+      "rosette_hoe",
+      "trial_trident",
+      "wonky_mace"
+    ]
+  ],
+  "rewards": {
+    "experience": 10
+  },
+  "sends_telemetry_event": true
+}

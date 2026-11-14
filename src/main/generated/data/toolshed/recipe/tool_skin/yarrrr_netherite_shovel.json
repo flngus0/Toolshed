@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:deepslate_gold_ore",
+  "base": "minecraft:netherite_shovel",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:yarrrr"
+    },
+    "id": "minecraft:netherite_shovel"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

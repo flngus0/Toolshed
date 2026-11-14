@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:crying_obsidian",
+  "base": "minecraft:netherite_sword",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:sanctuary"
+    },
+    "id": "minecraft:netherite_sword"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:packed_ice",
+  "base": "minecraft:netherite_pickaxe",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:frigid"
+    },
+    "id": "minecraft:netherite_pickaxe"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

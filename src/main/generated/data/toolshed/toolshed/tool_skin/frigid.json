@@ -1,0 +1,18 @@
+{
+  "handheld": [
+    "minecraft:netherite_sword",
+    "minecraft:netherite_spear"
+  ],
+  "id": "toolshed:frigid",
+  "material": "minecraft:packed_ice",
+  "tools": [
+    "minecraft:mace",
+    "minecraft:trident",
+    "minecraft:netherite_sword",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_hoe",
+    "minecraft:netherite_spear"
+  ]
+}

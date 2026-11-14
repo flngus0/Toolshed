@@ -1,0 +1,7 @@
+{
+  "id": "toolshed:wonky",
+  "material": "minecraft:red_dye",
+  "tools": [
+    "minecraft:mace"
+  ]
+}

@@ -3,13 +3,13 @@
 	"id": "toolshed",
 	"version": "${version}",
 	"name": "Toolshed",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Various skins for different tools!",
 	"authors": [
-		"Me!"
+		"flingus"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+      "sources": "https://github.com/flngus0/Toolshed",
+      "issues": "https://github.com/flngus0/Toolshed/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/toolshed/icon.png",
@@ -18,17 +18,22 @@
 		"main": [
 			"flingus.toolshed.Toolshed"
 		],
+        "client": [
+            "flingus.toolshed.client.ToolshedClient"
+        ],
 		"fabric-datagen": [
-			"flingus.toolshed.ToolshedDataGenerator"
+          "flingus.toolshed.client.datagen.ToolshedDataGenerator"
 		]
 	},
 	"mixins": [
 		"toolshed.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.20.1",
+		"fabricloader": ">=0.15.11",
 		"minecraft": "~1.21.11",
 		"java": ">=21",
-		"fabric-api": "*"
+		"fabric-api": "*",
+        "midnightlib": "*",
+        "strawberrylib": "*"
 	}
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "toolshed:item/template_large_handheld",
+  "textures": {
+    "layer0": "toolshed:item/tool_skin/yarrrr/netherite_axe_handheld"
+  }
+}

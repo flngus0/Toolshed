@@ -1,0 +1,11 @@
+{
+  "handheld": [
+    "minecraft:netherite_sword"
+  ],
+  "id": "toolshed:twisted_hate",
+  "material": "minecraft:crimson_roots",
+  "tools": [
+    "minecraft:trident",
+    "minecraft:netherite_sword"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:crimson_roots",
+  "base": "minecraft:trident",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:twisted_hate"
+    },
+    "id": "minecraft:trident"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "toolshed:bronze",
+  "material": "minecraft:copper_block",
+  "tools": [
+    "minecraft:mace",
+    "minecraft:trident",
+    "minecraft:netherite_sword",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_hoe"
+  ]
+}

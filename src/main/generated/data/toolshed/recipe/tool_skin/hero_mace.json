@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:golden_sword",
+  "base": "minecraft:mace",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:hero"
+    },
+    "id": "minecraft:mace"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

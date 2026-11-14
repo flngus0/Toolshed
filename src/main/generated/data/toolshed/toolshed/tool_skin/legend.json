@@ -1,0 +1,19 @@
+{
+  "handheld": [
+    "minecraft:mace",
+    "minecraft:netherite_sword",
+    "minecraft:netherite_spear"
+  ],
+  "id": "toolshed:legend",
+  "material": "minecraft:mossy_stone_bricks",
+  "tools": [
+    "minecraft:mace",
+    "minecraft:trident",
+    "minecraft:netherite_sword",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_hoe",
+    "minecraft:netherite_spear"
+  ]
+}

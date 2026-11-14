@@ -1,0 +1,7 @@
+{
+  "id": "toolshed:trial",
+  "material": "minecraft:trial_key",
+  "tools": [
+    "minecraft:trident"
+  ]
+}

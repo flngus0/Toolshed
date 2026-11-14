@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:popped_chorus_fruit",
+  "base": "minecraft:netherite_axe",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:esoteric"
+    },
+    "id": "minecraft:netherite_axe"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}

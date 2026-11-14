@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:sculk",
+  "base": "minecraft:netherite_shovel",
+  "result": {
+    "components": {
+      "toolshed:skin": "toolshed:echo"
+    },
+    "id": "minecraft:netherite_shovel"
+  },
+  "template": "toolshed:tool_skin_smithing_template"
+}
