@@ -45,6 +45,7 @@ public class ToolSkins {
     public static final RegistryKey<ToolSkin> PALE = of("pale");
     public static final RegistryKey<ToolSkin> MOTHER_NATURE = of("mother_nature");
     public static final RegistryKey<ToolSkin> AUREATE = of("aureate");
+    public static final RegistryKey<ToolSkin> GOATED = of("goated");
 
     private static RegistryKey<ToolSkin> of(String name) {
         return RegistryKey.of(REGISTRY, Toolshed.id(name));
@@ -203,6 +204,12 @@ public class ToolSkins {
                 Items.MACE, Items.TRIDENT, Items.NETHERITE_SWORD, Items.NETHERITE_AXE, Items.NETHERITE_PICKAXE, Items.NETHERITE_SHOVEL, Items.NETHERITE_HOE, Items.NETHERITE_SPEAR
         ), List.of(
                 Items.NETHERITE_SWORD, Items.NETHERITE_SPEAR
+        ));
+
+        register(registry, GOATED, Toolshed.id("goated"), Ingredient.ofItems(Items.SNOW_BLOCK), List.of(
+                Items.MACE, Items.TRIDENT, Items.NETHERITE_SWORD, Items.NETHERITE_AXE, Items.NETHERITE_PICKAXE, Items.NETHERITE_SHOVEL, Items.NETHERITE_HOE, Items.NETHERITE_SPEAR
+        ), List.of(
+                Items.NETHERITE_SPEAR
         ));
     }
 
